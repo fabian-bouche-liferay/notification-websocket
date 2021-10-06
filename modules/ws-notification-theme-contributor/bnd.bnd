@@ -1,0 +1,5 @@
+Bundle-Name: ws-notification-theme-contributor
+Bundle-SymbolicName: ws.notification.theme.contributor
+Bundle-Version: 1.0.0
+Liferay-Theme-Contributor-Type: ws-notification-theme-contributor
+Web-ContextPath: /ws-notification-theme-contributor-theme-contributor
